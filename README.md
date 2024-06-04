@@ -1,9 +1,9 @@
 Hi, I'm Divyanshu Upadhyay!
 <br>
-Data Analyst: I'm passionate about data analysis and leveraging its power to solve problems.<br>
-Machine Learning Enthusiast: Currently expanding my skillset by learning Machine Learning.<br>
-Collaboration Seeking: Eager to collaborate on impactful Machine Learning and Data Analytics projects.<br>
-Connect with me: divyanshu3579@gmail.com<br>
+<b>Data Analyst:</b> I'm passionate about data analysis and leveraging its power to solve problems.<be>
+<b>Machine Learning Enthusiast:</b> Currently expanding my skillset by learning Machine Learning.<br>
+<b>Collaboration Seeking:</b> Eager to collaborate on impactful Machine Learning and Data Analytics projects.<br>
+<b>Connect with me: divyanshu3579@gmail.com</b>
 
 <!---
 divyanshuupadhyay/divyanshuupadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
