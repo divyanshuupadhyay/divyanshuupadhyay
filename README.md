@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @divyanshuupadhyay
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML and Data Analytics Project
-- 📫 You can reach me out at my mail id divyanshu3579@gmail.com
+Hi, I'm Divyanshu Upadhyay!
+
+Data Analyst: I'm passionate about data analysis and leveraging its power to solve problems.
+Machine Learning Enthusiast: Currently expanding my skillset by learning Machine Learning.
+Collaboration Seeking: Eager to collaborate on impactful Machine Learning and Data Analytics projects.
+Connect with me: divyanshu3579@gmail.com
 
 <!---
 divyanshuupadhyay/divyanshuupadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
